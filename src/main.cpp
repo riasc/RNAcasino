@@ -7,3 +7,16 @@
 //
 
 #include "main.hpp"
+#include <iostream>
+
+
+/* general monte carlo search tree */
+void mctsSearch(int state) {
+    int root;
+}
+
+
+
+int main() {
+    std::cout << "Hello asda";
+}
